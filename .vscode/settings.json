@@ -1,4 +1,4 @@
 {
-  "python.formatting.provider": "autopep8",
-  "python.pythonPath": "/Users/jaycobduffel/.local/share/virtualenvs/Vidly_Repo-rtJQgT85/bin/python"
+  "python.formatting.provider": "black",
+  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8"
 }
