@@ -1,4 +1,4 @@
 {
-  "python.formatting.provider": "black",
-  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8"
+  "python.pythonPath": "/Users/jaycobduffel/.local/share/virtualenvs/vidly-7hGxJJ1l/bin/python",
+  "python.formatting.provider": "black"
 }
