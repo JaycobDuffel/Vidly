@@ -1,1 +1,1 @@
-wed: gunicorn vidly.wsgi
+web: gunicorn vidly.wsgi
