@@ -25,7 +25,7 @@ SECRET_KEY = "@sz9d8vy*((c*%_-ddnqn$n8kgzv*tj4(%j^^_@-#5$d2(o=+c"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["arcane-hollows-28802.herokuapp.com"]
 
 
 # Application definition
